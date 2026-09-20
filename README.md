@@ -67,12 +67,6 @@ The script processes the selected tests, extracts the exercise stages, calculate
 vo2_analysis_results.xlsx
 ```
 
-## Documentation
-
-Detailed information about the MATLAB code, input format, configuration parameters, generated outputs, and model workflow is available in the:
-
-[Code Manual](docs/code_manual_english.md)
-
 ## Data and Privacy
 
 Raw athlete data, personal information, laboratory files, and generated Excel results are not included in this repository. These files may contain sensitive physiological and anthropometric information and should be stored locally or in an appropriately protected location.
